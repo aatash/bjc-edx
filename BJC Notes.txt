@@ -1,0 +1,107 @@
+CS10 Survey Collections:
+
+Midterm Survey:
+https://docs.google.com/spreadsheet/ccc?key=0AsVn7X4Pu8jndFEyd1BUNUhWNWJvRFlMMUdQWVVCMHc&usp=sharing
+
+Sp13 Midterm Survey:
+https://docs.google.com/spreadsheet/ccc?key=0Am529fFZiOYhdFdOa0NsVEY4Qk8tUjBiZ2FwN1RJMkE&usp=sharing
+
+Fa12 Final:
+https://docs.google.com/spreadsheet/ccc?key=0AkbYitTZXVCVdE8xb0dvZk84dnQ5ZHRUb01tY2I0MHc&usp=sharing
+
+Fa12 MT:
+https://docs.google.com/spreadsheet/ccc?key=0AkbYitTZXVCVdDNpaE9LQzhsc3NqX2FtTEZFRm9EZXc&usp=sharing
+
+Lab and CS10 Ideas:
+https://docs.google.com/document/d/13g9KFuiwPiQztdivu_22s_zTbZsIDKJ2n1VbXQ2MQTQ/edit?usp=sharing
+
+
+-----------------------------------
+CS10 Feedback Section
+
+Projects:
+	More Guided directions
+	
+Lab:
+	Videos: Long 
+	Distributed Computing
+	Simulations
+	Have a lab 
+	P=NP
+	Sometimes people don't give correct answers
+	"Hints" section
+	More clear wording
+
+Readings
+	Free Lunch is over
+	Couple Weeks have too much reading
+
+Grades getting back sooner
+
+Exam:
+	Too detailed about question
+	Having more of an intuitive understanding
+	Not clear what's 
+
+Discussion:
+	Less useful at the end, more review at the end
+	
+
+Projects:
+	More guidance on types of 
+	Sharing projects
+	Code Review: Could be good within lab.
+    
+----------------------------------------
+CS10 - Feedback Section 3
+
+
+Good: 
+	Lab Videos
+
+
+Labs
+	Hard but useful
+	More instruction
+	Simulations lab.
+		You get the point after 10.
+	Labs with too much reading.
+	Some instruction would be better
+
+Reading:
+	Reading is worth too much
+	Video readings
+	Not tested on some readings
+	Some weeks readings not spread
+	
+Lecture:
+	Good balances.
+	Needs more connection -- one week
+	
+Discussion:	
+	Coding was most useful.
+	Review a lot more of little things from lecture
+	Discussions connected to lab.
+
+Projects:
+	Time for Final. 
+	More time projects than blog post
+
+Exams:
+	Sound easier than they were.
+	Good
+
+Extra Credit should be transparent
+	--All grades should more transparent
+
+Grades were updated more often
+
+Quiz Feedback should on bspace
+
+Homework on recursion / HOFs
+
+Busy OH -- more people
+
+Discussion another day of the week.
+
+----------------------------------------
